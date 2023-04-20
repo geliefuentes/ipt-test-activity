@@ -4,4 +4,6 @@ int main() {
     printf("Hello, Gelie!")
     printf("Im Yours!")
     return 0;
+    printf("Hello, Guys!")
+    printf("Hi Gelie Pretty")
 }
